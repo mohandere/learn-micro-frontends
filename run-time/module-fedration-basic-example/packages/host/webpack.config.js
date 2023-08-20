@@ -35,8 +35,8 @@ module.exports = {
       library: { type: "var", name: "host" },
       filename: "remoteEntry.js",
       remotes: {
-        catalog: "catalog",
-        cart: "cart",
+        catalog: "catalog@http://localhost:3001/remoteEntry.js",
+        cart: "cart@http://localhost:3002/remoteEntry.js",
       },
       shared: ["react", "react-dom"],
     }),

@@ -2,6 +2,8 @@
 
 We can categorize MFE patterns based on how those can be integrated/served in host/container app.
 
+You can read more about MFEs [here](https://www.mder.dev/blog/micro-frontends)
+
 ## Build time
 
 - Micro Frontends as NPM packages

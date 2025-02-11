@@ -2,7 +2,7 @@
 
 We can categorize MFE patterns based on how those can be integrated/served in host/container app.
 
-You can read more about MFEs [here](https://www.mder.dev/blog/micro-frontends)
+You can read more about MFEs [here](https://mohandere-dev.vercel.app/blog/micro-frontends)
 
 ## Build time
 
